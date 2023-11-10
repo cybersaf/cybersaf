@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on Stellar, Soroban DeFi solutions and building AI apps with the ChatGPT API.
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on blockchain, cybersecurity and AI projects
+- 🌱 I’m currently learning Rust & Java
+- 👯 I’m looking to collaborate on blockchain, cybersecurity and AI related projects
 - 📫 How to reach me: safiyah@jamiel.net or via linkedln
 <!--
 **cybersaf/cybersaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
