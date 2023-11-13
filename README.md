@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on Stellar, Soroban DeFi solutions and building AI apps with the ChatGPT API.
 - 🌱 Expanding my technical repertoire by diving into Rust and Java.
-- 🤝 Eager to collaborate on innovative projects in blockchain, cybersecurity, and artificial intelligence.
+- 🤝 Eager to collaborate on innovative projects.
 - 📧 Connect with me at safiyah@jamiel.net or through LinkedIn for any exciting opportunities or discussions.
 <!--
 **cybersaf/cybersaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
